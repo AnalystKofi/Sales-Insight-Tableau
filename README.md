@@ -12,6 +12,11 @@ This repository contains my first Tableau project, where I built a full end-to-e
 
 The goal of this project was to analyze company sales performance across multiple markets, customers, and products, and to highlight key business opportunities. The dashboard provides visibility into revenue trends, customer contribution, product profitability, and geographic performance.
 
+## 📸 Dashboard Preview
+
+![Sales Performance Dashboard](screenshots/dashboard_preview.png)
+
+
 ---
 
 ## 🔄 Data Workflow
@@ -69,9 +74,13 @@ These insights would support strategic decisions in market expansion, customer r
 
 ## 📁 Repository Structure
 📦 Sales-Performance-Dashboard
+
 ┣ 📁 data/ # (If applicable) Raw or sample data files
+
 ┣ 📁 workbook/ # Tableau workbook (.twb/.twbx)
+
 ┣ 📁 screenshots/ # Dashboard images for preview
+
 ┗ README.md # Project documentation
 
 
