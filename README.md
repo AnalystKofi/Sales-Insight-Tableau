@@ -108,7 +108,9 @@ If you're working in **Data Analytics, Business Intelligence, or Visualization**
 ## 👤 Author
 
 **Name**  : Kofi Obeng Nti
-📧 Email: kofiobengnti@gmail.com 
+
+📧 Email: kofiobengnti@gmail.com
+
 🔗 LinkedIn:www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
 Let’s grow together.
