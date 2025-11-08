@@ -14,7 +14,7 @@ The goal of this project was to analyze company sales performance across multipl
 
 ## 📸 Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/dashboard_preview.png)
+![Sales Performance Dashboard](<img width="1920" height="1113" alt="Image" src="https://github.com/user-attachments/assets/9433d72e-9468-4823-bf59-0853ea83caf0" />)
 
 
 ---
